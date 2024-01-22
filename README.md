@@ -4,7 +4,7 @@ Hola 👋 ! Bienvenido a mi perfil de Github a continuacion te cuento como poder
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) www.linkedin.com/in/lucascorbalan3/
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)(mailto:lucas.corbalan.23@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)(lucas.corbalan.23@gmail.com)
 
 Habilidades  
 Frontend 
