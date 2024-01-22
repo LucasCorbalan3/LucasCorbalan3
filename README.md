@@ -18,10 +18,11 @@ Back End
 
 Sobre mi 
 
-Soy un apasionado del desarrollo web, siempre me intereso el poder crear y entender como funcionan, a mis 30 años pude encontrar el tiempo para dedicarme y poder desarrollarme en este hermoso ambito y funcinar con mi experiencia la cual tengo mas de 6 años liderando equipos en sector de ventas y customer care 
-mi objetivo es funcionar mis ya habilidades que fui desarrollando con el tiempo y las habilidades tecnicas de codificacion que voy incorporando en este ultimo año con el fin de ofrecer soluciones frescas y modernas de igual manera busco no solo mejorar mis habilidades, sino también contribuir al éxito del equipo. 
-Mi enfoque y mi compromiso por adquirir estas habilidades demuestran mi intereses en el desarrollo continuo y una incansable sed de aprendizaje. 
-Me encantaria poder reunirnos y discutir las necesidades en tu equipo y como puedo contrinuir para alcanzar los objetivos que tienes planeados! 
+Soy un entusiasta del desarrollo web, siempre fascinado por la creación y comprensión de cómo funcionan las tecnologías. A mis 30 años, finalmente he encontrado el tiempo para sumergirme en este apasionante entorno. Combino esta nueva pasión con mi experiencia consolidada, liderando equipos durante más de 6 años en el sector de ventas y customer care. Durante este tiempo, he perfeccionado mis habilidades analíticas, utilizando datos para alcanzar metas a corto y largo plazo. Trabaje con personas guiando y enseñando como poder cumplir metas bajo estándares de calidad.
+
+Mi objetivo actual es fusionar las habilidades que he desarrollado a lo largo de los años con las habilidades técnicas de codificación que he adquirido en el último año. Aspiro a ofrecer soluciones frescas y modernas a un nuevo equipo de trabajo. No solo busco mejorar mis habilidades, sino también contribuir al éxito general del equipo.
+
+Mi enfoque y compromiso para adquirir estas habilidades reflejan mi dedicación al desarrollo continuo y mi insaciable sed de aprendizaje. Estoy emocionado por la oportunidad de reunirnos y discutir cómo puedo contribuir al cumplimiento de los objetivos de tu equipo. ¡Espero con entusiasmo poder conocernos!
 
 
 
