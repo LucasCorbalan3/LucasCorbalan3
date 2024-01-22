@@ -2,7 +2,7 @@ Corbalan Lucas - Full Stack MERN
 
 Hola 👋 ! Bienvenido a mi perfil de Github a continuacion te cuento como poder contactarme y charlas sobre nuestros objetivos. 
 
-(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(www.linkedin.com/in/lucascorbalan3/)
+(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) (www.linkedin.com/in/lucascorbalan3/)
 [gmail](mailto:lucas.corbalan.23@gmail.com)
 
 Habilidades  
