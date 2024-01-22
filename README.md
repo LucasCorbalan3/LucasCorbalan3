@@ -1,5 +1,7 @@
 Corbalan Lucas - Full Stack MERN 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+Mis Skill Frontend 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,react,tailwind,vite,)](https://skillicons.dev)
 
 
 <!---
