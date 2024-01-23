@@ -1,4 +1,4 @@
-Corbalan Lucas - Full Stack MERN 
+<h1>Corbalan Lucas - Full Stack MERN  </h1> 
 
 Hola 👋 ! Bienvenido a mi perfil de Github a continuacion te cuento como poder contactarme y charlar sobre nuestros inicios y objetivos. 
 
@@ -16,7 +16,7 @@ Back End
 
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,nodejs,mysql,nextjs	)](https://skillicons.dev)
 
-Sobre mi 
+<h2>Sobre mi</h2> 
 
 Soy un entusiasta del desarrollo web, siempre fascinado por la creación y comprensión de cómo funcionan las tecnologías. A mis 30 años, finalmente he encontrado el tiempo para sumergirme en este apasionante entorno. Combino esta nueva pasión con mi experiencia consolidada, liderando equipos durante más de 6 años en el sector de ventas y customer care. Durante este tiempo, he perfeccionado mis habilidades analíticas, utilizando datos para alcanzar metas a corto y largo plazo. Trabaje con personas guiando y enseñando como poder cumplir metas bajo estándares de calidad.
 
