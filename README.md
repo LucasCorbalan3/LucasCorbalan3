@@ -1,19 +1,18 @@
 <h1>Corbalan Lucas - Full Stack MERN  </h1> 
 
-Hola 👋 ! Bienvenido a mi perfil de Github a continuacion te cuento como poder contactarme y charlar sobre nuestros inicios y objetivos. 
+<p> Hola 👋 ! Bienvenido a mi perfil de Github a continuacion te cuento como poder contactarme y charlar sobre nuestros inicios y objetivos. </p> 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) www.linkedin.com/in/lucascorbalan3/
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) lucas.corbalan.23@gmail.com
 
-Habilidades  
+<h2>Habilidades</h2>  
 
-Frontend 
+Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,react,tailwind,vite,)](https://skillicons.dev)
 
 Back End 
-
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,nodejs,mysql,nextjs	)](https://skillicons.dev)
 
 <h2>Sobre mi</h2> 
