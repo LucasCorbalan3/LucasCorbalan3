@@ -24,7 +24,7 @@ Mi objetivo actual es fusionar las habilidades que he desarrollado a lo largo de
 
 Mi enfoque y compromiso para adquirir estas habilidades reflejan mi dedicación al desarrollo continuo y mi insaciable sed de aprendizaje. Estoy emocionado por la oportunidad de reunirnos y discutir cómo puedo contribuir al cumplimiento de los objetivos de tu equipo. ¡Espero con entusiasmo poder conocernos!
 
-<h3>Actualmente me encuentro trabajando de forma Freelance de forma independiente</h3>
+<h3>Actualmente me encuentro trabajando de forma Freelance en proyectos independientes </h3>
 
 <!---
 LucasCorbalan3/LucasCorbalan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
